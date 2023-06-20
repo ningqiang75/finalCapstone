@@ -1,15 +1,15 @@
 # Financial Calculators
 
-# Description:
+## Description:
 The Financial Calculators is a *command-line program* that allows users to calculate **the amount of interest on an investment** or **the monthly repayment on a home loan (bond)**. 
 It provides a simple and convenient way for users to make financial calculations based on their inputs.
 
-# Table of Contents:
+## Table of Contents:
 - Installation
 - Usage
 - Credits
 
-# Installation:
+## Installation:
 To use the Financial Calculators locally, follow these steps:
 
 1. Clone the repository from GitHub:
@@ -22,7 +22,7 @@ To use the Financial Calculators locally, follow these steps:
    python finance_calculators.py
    Note: Make sure you have Python installed on your machine.
 
-# Usage:
+## Usage:
 1. After running the script, you will be presented with a menu that allows you to choose between "investment" or "bond" calculations.
 
 2. Enter either 'investment' or 'bond' (not case-sensitive) based on your desired calculation.
@@ -33,5 +33,5 @@ To use the Financial Calculators locally, follow these steps:
 
 5. The program will calculate the final amount for investment or the monthly repayment for a bond based on your inputs and display the result.
 
-# Credits:
+## Credits:
 This Financial Calculators project was created by Qiang Ning as a personal project. Feel free to contribute and improve the code.
